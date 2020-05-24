@@ -59,3 +59,11 @@ print(t_0_2)
 print("Th_Broken: ")
 print(t_1_2)
 
+Work: 
+33.028
+Broken: 
+26.62
+Th_Work: 
+32.2222222222222
+Th_Broken: 
+27.777777777777754
